@@ -1,0 +1,19 @@
+w = []
+print (w)
+w.append("d")
+w.insert(0, "b")
+w.append("f")
+print (w)
+print (W.index("d"))
+del w[1]
+print (w)
+w.remove("b")
+print (w)
+
+
+#tipla
+alvin = (2,4,9)
+print (alvin)
+
+
+#pop devuelve el ultimo elemento 
